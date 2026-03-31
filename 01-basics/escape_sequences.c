@@ -8,3 +8,8 @@ int main() {
 
     return 0;
 }
+
+// \n → new line
+// \t → tab space
+// \" → print "
+// \\ → print \
