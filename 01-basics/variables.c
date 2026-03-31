@@ -12,3 +12,8 @@ int main(){
   
   return 0;
 }
+
+// %d → integer
+// %f → float
+// %c → character
+// %lf → double
