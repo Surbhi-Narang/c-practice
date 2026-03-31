@@ -7,4 +7,8 @@ int main(){
   printf("%f\n",b);
   char c = 's';
   printf("%c\n",c);
+  double d = 20.12345;
+  printf("%lf\n",d);
+  
+  return 0;
 }
